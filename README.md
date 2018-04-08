@@ -31,8 +31,7 @@ We also have a Java-based (works on Windows, Linux, MacOS...) command line tool 
 I received fewer Hydras than expected
 =====================================
 
-If you find an address is credited with fewer Hydras than expected, please remember that your wallet generates change addresses every time you send a transaction. See [this article](https://iop.global/change-addresses/) for more information. Depending on their balance during the snapshot phases, these addresses might also be eligible. If you are using the official IOP Core Wallet, you can get a list of all addresses in your wallet--including change addresses--by running `listaddressgroupings` in the console found in your IoP Core Wallet under *Help->Debug Window->Console*. To find out which of these is eligible for registration, you can compare them against the calculated result [here](src/data/combined/hydras.json). 
-Registration will be open until Sunday, January 14, 2:00 PM UTC. After registration closes, we will update this repository with the full registration data. 
+If you find an address is credited with fewer Hydras than expected, please remember that your wallet generates change addresses every time you send a transaction. See [this article](https://iop.global/change-addresses/) for more information. Depending on their balance during the snapshot phases, these addresses might also be eligible. If you are using the official IOP Core Wallet, you can get a list of all addresses in your wallet--including change addresses--by running `listaddressgroupings` in the console found in your IoP Core Wallet under *Help->Debug Window->Console*. After registration closes, we will update this repository with the full registration data. 
 
 
 
