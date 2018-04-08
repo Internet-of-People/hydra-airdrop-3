@@ -7,7 +7,7 @@ Welcome to the third and final Hydra Airdrop. This time, up to 1 Million HYD tok
 
 This time, we want to keep it simple. We care for only two things: How many IOP do you own, and how long will you hold it? Every IOP-satoshi will be rewarded with the same amount of HYD tokens, no matter how big the corresponding wallet is. Timelocked tokens and exchange wallets are again excluded.
 
-We will start taking snapshots on the first block on Monday, April 9, 2018 (UTC). We will continue taking snapshots every day on the first block after midnight (UTC) until the release of the official Libertaria Exchanger. 
+We will start taking snapshots on the first block on Monday, April 9, 2018 (UTC). We will continue taking snapshots every day on the first block after midnight (UTC) until the release of the official Libertaria Exchanger. Every IOP held over the whole snapshot period will be rewarded with approximately 0.23 HYD (this number may change slightly depending on the total amount of IOP in existence at release time). Amounts held for fewer days will be rewarded accordingly, e.g. if you hold for half of the time, you will only get ~0.11 HYD per IOP.   
 
 All snapshots are counted in total, so e.g. someone keeping 10 tokens for 5 days will get the same amount of HYD as someone keeping 5 Tokens for 10 days.
 
