@@ -1,6 +1,13 @@
 Third Hydra Airdrop - 1 Million HYD
 ===================================
 
+**UPDATE - Final Snapshot on Saturday, April 21**
+
+Dear IOP Community, 
+we have decided to release the Libertaria Exchange to the public on Saturday, April 21. On the same day, immediately after midnight, the last snapshot will be taken. In total we will then have made 13 snapshots. The registration will also open that day, approximately at 3 PM (UTC). The registration will be open for exactly 1 week and closes on Saturday, April 28 at 3 PM (UTC). Shortly after, you will receive your HYD tokens.
+
+
+
 Dear IOP Community,
 
 Welcome to the third and final Hydra Airdrop. This time, up to 1 Million HYD tokens will be distributed. 
