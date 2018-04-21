@@ -1,6 +1,12 @@
 Third Hydra Airdrop - 1 Million HYD
 ===================================
 
+**UPDATE - Final Snapshots added**
+
+Dear IOP Community, 
+the data from the final snapshot is now online. The total amount of IOP coins recorded in the snapshots is 49741310.55187128 IOP over 13 days (excluding timelocked tokens). This results in a reward of 0.020104013925 HYD per IOP for each day, or 0.261352181029 HYD for each IOP held over all snapshots. You can check the amount of HYD you can claim [here](src/data/processed/HYD_awarded.json). Registration will open on Saturday, April 21, at 3 PM UTC.  The registration will be open for exactly 1 week and closes on Saturday, April 28, at 3 PM (UTC). We will send out all HYD tokens after registration closes to save transaction cost.
+
+
 **UPDATE - First 12 Snapshots added**
 
 Dear IOP Community, 
