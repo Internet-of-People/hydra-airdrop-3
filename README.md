@@ -45,7 +45,7 @@ The command used for claiming an IOP address is `/%register YOUR_IOP_ADDRESS YOU
 
 A very helpful video has already been uploaded to our official Internet of People YouTube Channel, explaining how to [register for the first Hydra Airdrop](https://youtu.be/hvMySKfQZ7Q). There is also a video explaining how to [register balances held in Coinomi Wallet](https://youtu.be/Hu6JHJPks30). The procedure is exactly the same for the second airdrop. The only difference is that the second airdrop is not a lottery, so the amount of tokens is already fixed when you register.
 
-We also have a Java-based (works on Windows, Linux, MacOS...) command line tool to register all your addresses at once, including the ones the wallet doesn't show unless you run *listaddressgroupings*. It can be found [here](https://github.com/libertaria-project/hydra-airdrop-2/raw/master/src/register/jar/ClaimAirdrop.jar). To use it, see the steps listed [here](https://github.com/libertaria-project/hydra-airdrop-2/blob/master/src/register/jar/README.md). Please verify at least the MD5 hash of the jar. You can do this [here](http://onlinemd5.com) after downloading the jar.
+We also have a Java-based (works on Windows, Linux, MacOS...) command line tool, from one of the past airdrops, to register all your addresses at once, including the ones the wallet doesn't show unless you run *listaddressgroupings*. It can be found [here](https://github.com/libertaria-project/hydra-airdrop-2/raw/master/src/register/jar/ClaimAirdrop.jar). To use it, see the steps listed [here](https://github.com/libertaria-project/hydra-airdrop-2/blob/master/src/register/jar/README.md). Please verify at least the MD5 hash of the jar. You can do this [here](http://onlinemd5.com) after downloading the jar. We do not guarantee it'll work with this airdrop but it should work fine, and there's no harm in trying.
 
 
 I received fewer Hydras than expected
@@ -83,7 +83,6 @@ If you still have questions, you should be able to find the answers here.
 
 **Q**: Can I receive Hydra from my IOP on Bittrex?
 **A**: No, you cannot receive Hydra tokens based on Bittrex holdings. Only IOP addresses for which you own the private keys are eligible to register for the airdrop.
-
 
 **Q**: What do I need to register my address?
 **A**: You’ll need an eligible IOP address, an Ethereum wallet address for a wallet supporting ERC20 tokens and an IOP wallet capable of signing a message using the private key for the eligible IOP address. The official IoP Core wallet is perfect for this, exchange addresses are NOT. Another possibility is to use the Coinomi wallet.
